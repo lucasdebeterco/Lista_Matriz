@@ -1,0 +1,14 @@
+Salto 1 1.0
+Salto 2 2.0
+Salto 3 3.0
+Salto 4 4.0
+Salto 5 5.0
+Média 4.4375
+
+Salto 1 2.0
+Salto 2 3.0
+Salto 3 4.0
+Salto 4 5.0
+Salto 5 6.0
+Média 5.75
+

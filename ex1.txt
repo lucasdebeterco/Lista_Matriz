@@ -1,0 +1,12 @@
+Soma: 45.0Soma: 45.0
+Média: 5.0
+Menor: 1.0
+Maior: 9.0
+Quantidade de pares: 4
+Quantidade de impares: 5
+Soma diagonal principal: 15.0
+Soma diagonal secundária: 15.0
+Imprimindo a matriz: 
+1.0 2.0 3.0 
+4.0 5.0 6.0 
+7.0 8.0 9.0 

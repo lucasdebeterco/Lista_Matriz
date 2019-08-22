@@ -1,0 +1,12 @@
+1 | 2 | 3 | 
+4 | 5 | 6 | 
+
+Nome maior nota: 4
+Menor nota: 6.0
+Nome menor nota: 1
+Menor nota: 2.0
+Nome maior media: 4
+Maior media: 6.0
+Nome menor media: 1
+Menor media: 2.0
+Media geral da turma: 4.0
